@@ -8,6 +8,10 @@ import java.util.Scanner;
 /**
  *
  * @author Rheiza
+ * NAMA  : RHEIZA AKMAL R
+ * KELAS : IF2
+ * NIM   : 10119061
+ * Deskripsi Program : untuk menentukan nilai terbesar dan terkecil
  */
 public class PBOIF210119061Latihan39NilaiTerbesardanTerkecil {
 
